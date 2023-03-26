@@ -1,0 +1,51 @@
+header {
+	text-align: center;
+	margin-top: 50px;
+}
+body {
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+main {
+	margin: 50px;
+}
+p {
+  color: azure;
+  font-size: 20px;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+h1 {
+  color: azure;
+	font-size: 36px;
+}
+
+h2 {
+  color: azure;
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+ul {
+  color: #f8f6f6;
+	list-style-type: disc;
+	margin-left: 40px;
+}
+
+img {
+	max-width: 30%;
+	margin-bottom: 20px;
+
+}
+
+footer {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 12px;
+}
